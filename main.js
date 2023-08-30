@@ -9,10 +9,10 @@ let array = [2, 3, 1, 5]
             console.log("is Subtract");
         } 
         else if(array[i] * array[i] === x){
-            console.log("is Multiply" + x);
+            console.log("is Multiply");
         } 
         else if(array[i] / array[i] === x){
-            console.log("is Divide" + x);
+            console.log("is Divide");
         } 
     
 }
